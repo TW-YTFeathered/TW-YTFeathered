@@ -2,8 +2,10 @@
 I’m **TW‑YTFeathered**.
 
 ## Skills  
-- C#: ~1% (beginner)  
-- F#: ~0.1% (just started exploring)
+- C#: 87.6% (competent)  
+- F#: 1.9% (beginner)  
+- PowerShell: 1.1% (beginner)  
+- Python: 1.2% (beginner)
 
 ## My Repositories
 - **SeanOne.Alchemy** – a format and transformation library.  
