@@ -5,6 +5,7 @@ I’m **TW‑YTFeathered**.
 - **SeanOne.Alchemy** – a format and transformation library.  
   - *SeanOne.Alchemy.Test* – the test suite for SeanOne.Alchemy.  
 - **SeanOne.BUPC** – a library for near‑optimal prefix code trees (approximate Huffman trees).  
+- **SeanOne.TerminalUi** - A simple UI interface that simulates a console.
 - **EmlMath** – an implementation of Part A (foundational) of arXiv:2603.21852.
 - **TW‑YTFeathered** – my personal profile repository (introduces me).
 
